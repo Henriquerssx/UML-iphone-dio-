@@ -1,4 +1,5 @@
 # UML-iphone-dio-
+```mermaid
 classDiagram
 
     class ReprodutorMusical {
